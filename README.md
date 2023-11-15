@@ -6,31 +6,31 @@
 <h3>I'm Skills : </h3>
 <div>
   <ul>
-  <li><span style="font-weight:bold">Languages</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Languages</span>:
   <span>JavaScript</span> / <span>TypeScript</span>
   </li>
-  <li><span style="font-weight:bold">Library/Framework</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Library/Framework</span>:
   <span>React.js</span> / <span>Next.js</span>
   </li>
-  <li><span style="font-weight:bold">State Managment</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">State Managment</span>:
   <span>Redux</span> - <span>Redux-Toolkit</span>
   </li>
-  <li><span style="font-weight:bold">Framework</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Framework</span>:
   <span>Bootstrap</span> / <span>TailwindCss</span>
   </li>
-  <li><span style="font-weight:bold">Database</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Database</span>:
   <span>Mongodb</span> / <span>Firebase</span>
   </li>
-  <li><span style="font-weight:bold">Deployment Platform</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Deployment Platform</span>:
   <span>Vercel</span> / <span>Liara</span>
   </li>
-  <li><span style="font-weight:bold">Package Manager</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Package Manager</span>:
   <span>Vite</span> / <span>Webpack</span>
   </li>
-  <li><span style="font-weight:bold">Api Testing</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Api Testing</span>:
   <span>Postman</span>
   </li>
-  <li><span style="font-weight:bold">Version Control</span>:
+  <li><span style="font-weight:bold; background:#000; color:#fff;">Version Control</span>:
   <span>Git</span> / <span>GitHub</span>
   </li>
   </ul>
