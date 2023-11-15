@@ -6,7 +6,7 @@
 <h3>I'm Skills : </h3>
 <div>
   <ul>
-  <li><span style="font-weight:bold">Languages</div>:
+  <li><span style="font-weight:bold">Languages</span>:
   <span>JavaScript</span> / <span>TypeScript</span>
   </li>
   <li><span style="font-weight:bold">Library/Framework</span>:
