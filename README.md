@@ -3,7 +3,7 @@
   <h2>I'm MohammadReza Moghadar</h2>
   <h3>Im Front-End Programmer</h3>
 </h1>
-<h3>I'm Skills : </h3>
+<h3>My Skills : </h3>
 <div>
   <ul>
   <li><span style="font-weight:bold; background:'#000'; color:'#fff';">Languages</span>:
